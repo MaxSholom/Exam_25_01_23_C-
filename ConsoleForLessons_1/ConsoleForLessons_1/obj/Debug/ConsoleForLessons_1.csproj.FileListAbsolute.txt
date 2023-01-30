@@ -1,0 +1,7 @@
+E:\STEP_STUDY\PRACTICE_HOMEWORKS\C#_Lessons\ConsoleForLessons_1\ConsoleForLessons_1\bin\Debug\ConsoleForLessons_1.exe.config
+E:\STEP_STUDY\PRACTICE_HOMEWORKS\C#_Lessons\ConsoleForLessons_1\ConsoleForLessons_1\bin\Debug\ConsoleForLessons_1.exe
+E:\STEP_STUDY\PRACTICE_HOMEWORKS\C#_Lessons\ConsoleForLessons_1\ConsoleForLessons_1\bin\Debug\ConsoleForLessons_1.pdb
+E:\STEP_STUDY\PRACTICE_HOMEWORKS\C#_Lessons\ConsoleForLessons_1\ConsoleForLessons_1\obj\Debug\ConsoleForLessons_1.csproj.AssemblyReference.cache
+E:\STEP_STUDY\PRACTICE_HOMEWORKS\C#_Lessons\ConsoleForLessons_1\ConsoleForLessons_1\obj\Debug\ConsoleForLessons_1.csproj.CoreCompileInputs.cache
+E:\STEP_STUDY\PRACTICE_HOMEWORKS\C#_Lessons\ConsoleForLessons_1\ConsoleForLessons_1\obj\Debug\ConsoleForLessons_1.exe
+E:\STEP_STUDY\PRACTICE_HOMEWORKS\C#_Lessons\ConsoleForLessons_1\ConsoleForLessons_1\obj\Debug\ConsoleForLessons_1.pdb
